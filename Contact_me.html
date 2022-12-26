@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Me</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #F5F5F5;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2em;
+      margin-bottom: 20px;
+
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #E9EDFF;
+      margin-top: 100px;
+      padding: 50px;
+      border-radius: 40% 10% 10% 10%;
+    }
+    label {
+      margin-bottom: 10px;
+    }
+    input {
+      width: 300px;
+      height: 40px;
+      font-size: 1em;
+      padding: 0 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+    }
+    div > input {
+      width: 100px;
+      height: 50px;
+      font-size: 1em;
+      background-color: #3C0AFE;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    p {
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<form>
+  <h1>Contact Me</h1>
+  <label for="name">Name:</label>
+  <input type="text" id="name" required>
+  <label for="email">Email</label>
+    <input type="email" id="email" required>
+    <label for="password">Password:</label>
+    <input type="password" id="password" required>
+    <div>
+      <input type="submit"
+             value="Submit" />
+    </div>
+
+</form>
+
+</body>
+</html>
