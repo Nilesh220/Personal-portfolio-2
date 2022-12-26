@@ -323,3 +323,16 @@ a{
     color: #fff;
     text-decoration: none;
 }
+.cv{
+    width: 130px;
+    color:#3C0AFE;
+    border-radius: 10px;
+
+    padding: 3px;
+    background-color: #F5F5F5;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.cv-link{
+    color: #3C0AFE;
+}
