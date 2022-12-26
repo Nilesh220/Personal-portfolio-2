@@ -18,6 +18,10 @@ This is my personal portfolio website.</h3>
 ![image](./screen-shots/Screenshot_2.png)
 ![image](./screen-shots/Screenshot_3.png)
 ![image](./screen-shots/Screenshot_4.png)
+![image](./screen-shots/Screenshot_5.png)
+![image](./screen-shots/Screenshot_6.png)
+![image](./screen-shots/Screenshot_7.png)
+![image](./screen-shots/Screenshot_8.png)
 
 
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
