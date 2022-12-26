@@ -8,7 +8,7 @@ This is my personal portfolio website.</h3>
  <br>
 
 
-<p align="left"> <img src="https://img.shields.io/github/followers/Nilesh220.svg?style=social&label=Follow" alt="Nilesh220" /> </p>
+<p> <img src="https://img.shields.io/github/followers/Nilesh220.svg?style=social&label=Follow" alt="Nilesh220" /> </p>
 
 ***
 
