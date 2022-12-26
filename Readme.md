@@ -4,11 +4,11 @@
 This is my personal portfolio website.</h3>
 
 <br>
-&nbsp;<a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a>
- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a>
+ <br> <br>
 
 
-<p> <img src="https://img.shields.io/github/followers/Nilesh220.svg?style=social&label=Follow" alt="Nilesh220" /> </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/github/followers/Nilesh220.svg?style=social&label=Follow" alt="Nilesh220" /> </p>
 
 ***
 
