@@ -3,16 +3,16 @@
 <h3>A passionate Programmer from India.
 This is my personal portfolio website.</h3>
 
-<br>
-&nbsp;<a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a>
- <br>
+```python
+print("Nilesh welcomes you")
 
+```
 
 <p> <img src="https://img.shields.io/github/followers/Nilesh220.svg?style=social&label=Follow" alt="Nilesh220" /> </p>
 
 ***
 
-## Screenshots of website
+# _Screenshots of website_
 
 ![image](./screen-shots/Screenshot_1.png)
 ![image](./screen-shots/Screenshot_2.png)
